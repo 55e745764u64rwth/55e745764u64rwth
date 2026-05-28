@@ -1,4 +1,4 @@
-# Hi there, I'm Neo / Anderson 👋
+# Hi there, I'm HARKER / Lourenço 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/m3at/matrix-readme/master/matrix.gif" width="100%" />
@@ -7,10 +7,9 @@
 ### 👨‍💻 About Me
 ```bash
 > WHOAMI
-Name: Neo / Anderson
-Role: Full Stack Developer | Matrix Architect
-Bio: Wake up, Neo... The Matrix has you. Follow the white rabbit. 🐇
-Location: Zion / Digital World
+Name: HARKER / Lourenço
+Role: Student
+Bio: Wake up, HARKER... The Matrix has you. Follow the white rabbit. 🐇
 ```
 
 ### 🛠 Tech Stack
